@@ -1,0 +1,27 @@
+html {
+  background: #ff1f40;
+  background-image: linear-gradient(to top, #000000, #ff1f40);
+}
+
+p {
+  color: #ffffff;
+}
+
+button {
+  background-color: #ff0019;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  transition-duration: 0.45s;
+  width: 175px;
+  height: 50px;
+}
+
+button:hover {
+  background-color: #fe5d7d;
+  color: black;
+}
+
+h1 {
+  color: #ffffff;
+  text-shadow: -2px -2px #000000;
+}
